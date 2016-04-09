@@ -4,7 +4,7 @@ find the translation of all the titles one language in another language on wikip
 
 ## Usage
 ```
-    python wikititles.py -p /path/to/thwiki-20160305-page.sql -l /path/to/thwiki-20160305-langlinks.sql -c en
+    python wikititles.py -p /path/to/thwiki-20160305-page.sql -l /path/to/thwiki-20160305-langlinks.sql -c en -o trans.txt
 ```
 
 sample results:
